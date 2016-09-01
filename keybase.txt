@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/maxly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maxly.pw
+  * I am maxly (https://keybase.io/maxly) on keybase.
+  * I have a public key with fingerprint 74DA 0D5B FBAE ED14 C04E  60D2 F755 6861 3275 6232
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f0c494e6e4ee1b8ed0a7855c7886f157702cfbea83b794053e18f3777880eb9f0a",
+            "fingerprint": "74da0d5bfbaeed14c04e60d2f755686132756232",
+            "host": "keybase.io",
+            "key_id": "f755686132756232",
+            "kid": "0101f0c494e6e4ee1b8ed0a7855c7886f157702cfbea83b794053e18f3777880eb9f0a",
+            "uid": "d4b278405a155d8566d129468da1e219",
+            "username": "maxly"
+        },
+        "revoke": {
+            "sig_ids": [
+                "a2d77c0a888d56bb2a725f4a05150b24c8a402c72cfbdfbfa859fa1d07bff9620f"
+            ]
+        },
+        "service": {
+            "hostname": "maxly.pw",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469118708,
+    "expire_in": 157680000,
+    "prev": "4b85d242b57ba0ff2dcd557d4e99b444eae462ea5f948944c92aa93edd0e8fa8",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJpAnicrZJfaBxFHMcvf6ztqahtIIFDCuNDg0nLzNzMzuxRQU1ppSX+q22jsZwz
+O79JN7ncXnbvLgmlLxWC1bZKESyCWCVS0loRqmJsRRuCQQrm/IsgaGkfjJj2QRS1
+odXZoOCDj+7LsjPf3+f3md/O7C0tmWzT1p8f0J1HGoWm8+cu1zK7nv/9l71IR2Yc
+FfaiIVh+QclAUi0OhQYVECaYWBwwn4EHDIBoCQYrITkPhJSeJVwITAOrQcm8Fj7D
+PA9E2rwQbh+D9i1WqBvZsDwAcSUOy1WHFcwobLi2WgEYwgLs+NhQKzj3pEfyVHCP
+5qkr3BMlaYWT0yqBDWHk1txHcVnvP/L/s3dtGWeYpkK6jCKcG8k9zxDqM08aRYAS
+Pw0mEJfVMLj0sBorjaN93SiGejQE6VCTcMAZJ6jQjxQ1QgRYSSkN97SmSlBumcKc
+cKwpC6RizkykcsZqqyT3rSIGC22t71Fs0W7Hdu3qYbAMT0f079YbKqNOqBJH1SiI
+Sm51T7VaSQqpUXW8ksZGQRf/BhR1WDbu57iKOsRJGJVRgbhkUA1TImGeT4gUWHYj
+GKuEMRTDNMGFJ7F70j5Qd0imJTeUUc2FVthaagLDuTAMfF8zxkAB8ygobn0mfcYC
+nyrl58EYDNIdEqVHGilHji2cpxpwTDe1sqrWYkD7Zj56ojXTlM2suKE5vbWZ7Krb
+/rnLHbUb/xxsPtl+08ex//ipXdv2Pzp//Exftr2+re/X+M2OlsLg22vD1W1LF+59
+sTT/zln7XLa3a/tc/ah3sOvOGbRw4Ouew2sG1j59uf/7izuvR73vHf+ip3liU26h
+bXPzlc2TnXPXpjre3TqyqXX7W9B/9LUdF+5ecejTpWdHv/r2t8eOfXZuXV+UazR+
+bP9u8uXd6pubTx+6tvjSxVPXiV3z0/udV/1bc+tbH7qjXjrQ8+Eb0zMbp1c+dfaS
+euGeWbRycfX5seIzuSNJ7ZPe4tXJE3R+1YktS4vHHhlcQA/un91yaeN9V/5ou708
+dfCuV/Hwl69MtO8YKf3Q+vnDucYHZ7run1vC070T6w4/+Xpj6nTLXx3VWBc=
+=ExD6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maxly
+
+==================================================================
