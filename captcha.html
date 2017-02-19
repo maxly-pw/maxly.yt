@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Invisible reCAPTCHA test</title>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body>
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Henlo">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Henlo">
+  <br><br>
+  <button
+	class="g-recaptcha"
+	data-sitekey="6LfUKhYUAAAAAOc2wQ-JOL9F6lMzStp_IPvXHV9n"
+	data-callback="YourOnSubmitFn">
+	Submit
+  </button>
+</form> 
