@@ -156,9 +156,15 @@
 				}
 			}
 
-			&.style6 {
+			&.old {
 				> .image:before {
-					background-color: _palette(accent6);
+					background-color: _palette(accentold);
+				}
+			}
+			
+			&.new {
+				> .image:before {
+					background-color: _palette(accentnew);
 				}
 			}
 
